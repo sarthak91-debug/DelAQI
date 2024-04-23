@@ -3,7 +3,5 @@ pandas
 numpy
 matplotlib
 seaborn
-glob
-pickle
 darts
 statsmodels
